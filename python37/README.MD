@@ -3,4 +3,4 @@ This contains the IPython or Jupyter notebooks to follow along the Python sessio
 <a href="https://www.cloudishes.com/2017/11/learn-with-me.html" target="_blank">cloudishes</a>
 and
 <a href="https://www.youtube.com/channel/UCyOtrnQEAXWanOJhOaXAu1w/playlists" target="_blank">ambig1</a>
-I am at a href="https://ambig.one/2" target="_blank">One ID</a>
+I am at a <a href="https://www.ambig.one/2" target="_blank">OneID</a>
