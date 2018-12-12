@@ -1,1 +1,8 @@
-/.idea
+.idea
+.idea/*
+.idea/
+temp
+temp/
+.ipynb_checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
